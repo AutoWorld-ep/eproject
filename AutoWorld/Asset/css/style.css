@@ -30,10 +30,6 @@ nav a {
     padding: 10px;
 }
 
-nav a:hover {
-    text-decoration: underline;
-}
-
 .dropdown:hover .dropdown-menu {
   display: block;
 }
